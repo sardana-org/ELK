@@ -1,1 +1,1 @@
-## ELK moved to https://gitlab.com/sardana-org/ELK
+## ELK moved to https://gitlab.com/sardana-org/sardana-elastic
